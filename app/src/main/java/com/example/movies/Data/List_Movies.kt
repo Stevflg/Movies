@@ -1,0 +1,10 @@
+package com.example.movies.Data
+
+class List_Movies {
+    val listMovies: List<Movies> = listOf(
+        Movies("Creed III", "https://image.tmdb.org/t/p/w185/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg", "Adonis Creed ya ha llegado a la cima de su carrera y no tiene nada más que demostrar en el mundo del boxeo. Convertido en un ídolo de este boxeo pasa sus días rodeado de su familia y seres queridos. Sin embargo, todo cambiará cuando regrese un fantasma de su infancia. Su amigo de juventud, Damián, acaba de salir de la cárcel y desea demostrar todo lo que ha aprendido de boxeo estos años. Por ello, querrá enfrentarse en el cuadrilátero con su antiguo amigo. Adonis Creed tendrá que enfrentarse a este adversario, que no solo quiere quitarle su título de boxeador, sino que desea acabar con él."),
+        Movies("John Wick 4", "https://image.tmdb.org/t/p/w185/gh2bmprLtUQ8oXCSluzfqaicyrm.jpg", "John Wick descubre un camino para derrotar a La Mesa, pero, antes de que pueda ganar su libertad, Wick debe enfrentarse a un nuevo enemigo con poderosas alianzas en todo el mundo y fuerzas que convierten a viejos amigos en enemigos."),
+        Movies("El Exorcismo de Dios", "https://image.tmdb.org/t/p/w185/wHA9cysdFmGDfIvu9iEpu19w9GK.jpg", "Un sacerdote estadounidense que trabaja en México es considerado un santo por muchos feligreses locales. Sin embargo, debido a un exorcismo fallido, lleva un secreto que lo está comiendo vivo hasta que tiene la oportunidad de enfrentar a su demonio por última vez."),
+        Movies("Black Clover: La espada del rey mago", "https://image.tmdb.org/t/p/w185/nqaSA9MW9nZLbl7NKVDlTQ2Fwwo.jpg", "Un niño que no tiene el poder de hacer magia lucha por obtener el título de Rey Mago, mientras cuatro antiguos Reyes Magos reaparecen para destruir el Reino del Trébol."),
+    )
+}
