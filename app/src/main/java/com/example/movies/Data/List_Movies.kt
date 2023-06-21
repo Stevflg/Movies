@@ -6,5 +6,6 @@ class List_Movies {
         Movies("John Wick 4", "https://image.tmdb.org/t/p/w185/gh2bmprLtUQ8oXCSluzfqaicyrm.jpg", "John Wick descubre un camino para derrotar a La Mesa, pero, antes de que pueda ganar su libertad, Wick debe enfrentarse a un nuevo enemigo con poderosas alianzas en todo el mundo y fuerzas que convierten a viejos amigos en enemigos."),
         Movies("El Exorcismo de Dios", "https://image.tmdb.org/t/p/w185/wHA9cysdFmGDfIvu9iEpu19w9GK.jpg", "Un sacerdote estadounidense que trabaja en México es considerado un santo por muchos feligreses locales. Sin embargo, debido a un exorcismo fallido, lleva un secreto que lo está comiendo vivo hasta que tiene la oportunidad de enfrentar a su demonio por última vez."),
         Movies("Black Clover: La espada del rey mago", "https://image.tmdb.org/t/p/w185/nqaSA9MW9nZLbl7NKVDlTQ2Fwwo.jpg", "Un niño que no tiene el poder de hacer magia lucha por obtener el título de Rey Mago, mientras cuatro antiguos Reyes Magos reaparecen para destruir el Reino del Trébol."),
+        Movies("Blade Runner 2049", "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_FMjpg_UX1000_.jpg", "El descubrimiento por parte del joven blade runner K de un secreto oculto desde hace tiempo, le lleva a buscar al antiguo blade runner Rick Deckard, que lleva treinta años desaparecido.")
     )
 }
